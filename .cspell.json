@@ -27,12 +27,13 @@
     "/``[\\w\\W]*?``/",
     "/`[^`]*`/",
     "/\\.\\/docs\\/rules\\/[^.]*.md/",
-    "/@typescript-eslint\\/[a-z-]+/",
+    "/@bylder\\/[a-z-]+/",
     "/\\.all-contributorsrc/",
     "/TS[^\\s]+/",
     "\\(#.+?\\)"
   ],
   "words": [
+    "bylder",
     "ASTs",
     "Airbnb",
     "Airbnb's",
